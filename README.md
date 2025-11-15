@@ -18,8 +18,8 @@ This project presents a smart **Industrial Information Management System** desig
 
 ## 🖼 PCB Images
 ```
-![PCB Front](./PCBDESIGNFRONT.jpg)
-![PCB Back](./PCBDESIGNBACK.jpg)
+![PCB Front](PCBDESIGNFRONT.jpg)
+![PCB Back](PCBDESIGNBACK.jpg)
 
 ```
 
