@@ -20,6 +20,7 @@ This project presents a smart **Industrial Information Management System** desig
 ```
 ![PCB Front](./PCBDESIGNFRONT.jpg)
 ![PCB Back](./PCBDESIGNBACK.jpg)
+
 ```
 
 ---
